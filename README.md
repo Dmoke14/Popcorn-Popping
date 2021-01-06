@@ -1,4 +1,4 @@
-# Popcorn-Popping
+# Popcorn Popping
 A university level ANOVA project, first one I ever completed. April 2019.
 
 ## Popcorn Report
